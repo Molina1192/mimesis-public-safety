@@ -1,0 +1,33 @@
+# Auto-detect text files and normalize line endings
+* text=auto
+
+# Markdown
+*.md text
+
+# SVGs
+*.svg text
+
+# Binary image formats
+*.png binary
+*.dds binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.webp binary
+
+# Fonts
+*.ttf binary
+*.otf binary
+*.woff binary
+*.woff2 binary
+
+# Paint.NET
+*.pdn binary
+
+# Adobe
+*.psd binary
+
+# Archives
+*.zip binary
+*.7z binary
+*.rar binary
