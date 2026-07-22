@@ -1,101 +1,145 @@
-Mimesis Public Safety Project License
-Version 1.0
-Copyright (c) 2026 Mimesis Roleplay
+# Mimesis Public Safety Project License
+**Version 1.0**
 
-All rights reserved.
+Copyright © 2026 Mimesis Roleplay
 
-This repository contains original creative works developed for the Mimesis Roleplay Public Safety project, including but not limited to:
+All Rights Reserved.
 
-• Logos
-• Badges
-• Seals
-• Vehicle liveries
-• Graphics
-• Branding assets
-• Documentation
-• Design standards
-• Templates
-• Source artwork
-• Other original project materials
+---
 
-By accessing this repository, you agree to the following terms.
+## Introduction
 
-────────────────────────────────────────
+This repository contains original creative works developed for the **Mimesis Public Safety Project**, an original fictional public safety identity system created for the Mimesis Roleplay universe.
 
-1. Ownership
+For the purposes of this license, **Project Assets** include, but are not limited to:
 
-All intellectual property contained within this repository remains the property of the Mimesis Public Safety Project unless otherwise noted.
+- Logos
+- Badges
+- Seals
+- Department branding
+- Vehicle liveries
+- Graphics
+- Design standards
+- Documentation
+- Templates
+- Source artwork
+- Production exports
+- Typography
+- Uniform designs
+- Any other original materials contained within this repository
 
-No ownership rights are transferred by viewing, cloning, downloading, or contributing to this repository.
+By accessing, cloning, downloading, viewing, or contributing to this repository, you acknowledge and agree to the terms of this license.
 
-────────────────────────────────────────
+---
 
-2. Permitted Uses
+# 1. Ownership
+
+All intellectual property contained within this repository remains the exclusive property of the **Mimesis Public Safety Project**, unless otherwise stated.
+
+Accessing, cloning, downloading, or viewing this repository does **not** transfer ownership or grant permission to reproduce, redistribute, modify outside the project, commercially exploit, or otherwise use any Project Assets except as expressly permitted by this license.
+
+---
+
+# 2. Permitted Uses
 
 You may:
 
-• View the repository.
-• Download repository contents for authorized project development.
-• Create modifications for the purpose of contributing to this project.
-• Submit contributions when authorized by the project owner.
+- View this repository.
+- Clone or download repository contents for authorized project development.
+- Modify Project Assets solely for the purpose of contributing to this project.
+- Submit contributions when authorized by the project owner.
 
-────────────────────────────────────────
+No other rights are granted unless explicitly provided in writing.
 
-3. Restrictions
+---
 
-Without prior written permission from the project owner, you may not:
+# 3. Restrictions
 
-• Copy project branding.
-• Copy or reuse department names, logos, badges, or seals.
-• Copy vehicle liveries.
-• Redistribute project assets.
-• Sell or commercially exploit any project assets.
-• Use project assets on another FiveM server or gaming community.
-• Claim authorship of any project asset.
-• Remove copyright notices.
-• Publish modified versions of project assets outside this repository.
+Without prior written permission from the project owner, you may **not**:
 
-────────────────────────────────────────
+- Copy or reproduce Project Assets.
+- Reuse department names, logos, badges, seals, or branding.
+- Copy or reuse vehicle liveries.
+- Redistribute Project Assets.
+- Sell, license, or commercially exploit Project Assets.
+- Use Project Assets on another FiveM server, gaming community, or commercial project.
+- Claim authorship of any Project Asset created by another contributor.
+- Remove or alter copyright notices.
+- Publish modified versions of Project Assets outside this repository.
+- Represent any Project Asset as your own original work.
 
-4. Contributions
+---
+
+# 4. Contributions
 
 By submitting a contribution, you affirm that:
 
-• The contribution is your original work, or
-• You have the legal right to contribute it.
+- The contribution is your original work; **or**
+- You possess the legal right to contribute the material.
 
-Unless otherwise agreed in writing, accepted contributions become part of the Mimesis Public Safety Project and may be modified, redistributed within the project, or incorporated into future releases.
+By submitting a contribution, you grant the project owner a **perpetual, worldwide, non-exclusive, royalty-free license** to use, modify, reproduce, display, distribute, and incorporate your contribution into the Mimesis Public Safety Project.
 
-Original authorship will be retained through the project's version control history.
+Unless otherwise agreed in writing, contributors retain ownership of their original work while granting the rights described above.
 
-────────────────────────────────────────
+Accepted contributions become part of the project's official development history and may be included in future releases.
 
-5. Third-Party Content
+Original authorship will continue to be reflected through the project's Git version history.
 
-Any third-party assets included in this repository remain subject to their respective licenses.
+---
 
-The project does not claim ownership of third-party content.
+# 5. Third-Party Content
 
-────────────────────────────────────────
+Any third-party content included within this repository remains subject to its respective license and copyright holder.
 
-6. Warranty
+Contributors are solely responsible for ensuring they possess the legal right to submit any third-party material.
 
-This project is provided "as is" without warranty of any kind.
+The project owner reserves the right to remove any material that cannot be legally distributed or incorporated into the project.
 
-The project owner is not liable for any damages arising from the use of this repository or its contents.
+---
 
-────────────────────────────────────────
+# 6. No Affiliation
 
-7. Enforcement
+The Mimesis Public Safety Project is an original fictional work.
 
-Unauthorized reproduction, redistribution, commercial use, or misrepresentation of project assets may result in removal requests, copyright enforcement, or other legal remedies where applicable.
+Nothing contained within this repository implies endorsement by, affiliation with, or representation of any real-world government agency, law enforcement organization, emergency service, municipality, or public institution.
 
-────────────────────────────────────────
+Any similarities are intended solely to support realism within a fictional roleplay environment.
 
-8. Contact
+---
 
-Questions regarding licensing or permissions should be directed to the project owner through the official Mimesis Roleplay GitHub repository.
+# 7. Warranty
 
-────────────────────────────────────────
+This project is provided **"AS IS"**, without warranty of any kind, express or implied.
 
-End of License
+The project owner and contributors shall not be held liable for any claim, damages, or other liability arising from the use of this repository or any Project Assets.
+
+---
+
+# 8. Enforcement
+
+Unauthorized reproduction, redistribution, commercial use, misrepresentation, or infringement of Project Assets may result in:
+
+- Requests for removal of infringing content
+- Copyright enforcement
+- Revocation of contribution privileges
+- Other legal remedies where applicable
+
+---
+
+# 9. Contact
+
+Questions regarding licensing, permissions, or authorized use of Project Assets should be directed to the project owner through the official **Mimesis Roleplay GitHub repository**.
+
+---
+
+## License Versioning
+
+This license is identified as **Mimesis Public Safety Project License Version 1.0**.
+
+Future revisions may be published as new versions. Unless otherwise stated, changes to future versions shall not retroactively alter permissions granted under previous versions.
+
+---
+
+© 2026 Mimesis Public Safety Project. All Rights Reserved.
+
+**End of License**

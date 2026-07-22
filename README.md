@@ -1,35 +1,52 @@
 # Mimesis Public Safety
 
-> A complete branding, graphics, and fleet identity project for the Mimesis Roleplay public safety system.
+> **Building a complete, original public safety identity for the Mimesis Roleplay universe.**
+
+![Status](https://img.shields.io/badge/status-active-success)
+![Version](https://img.shields.io/badge/version-v0.1.0-blue)
 
 ---
 
-## Project Overview
+## Overview
 
-Mimesis Public Safety is a long-term design and development project focused on creating a cohesive, professional, and original visual identity for the public safety agencies within the Mimesis Roleplay universe.
+Mimesis Public Safety is a long-term design and documentation project focused on creating a cohesive and professional visual identity for the public safety agencies of the Mimesis Roleplay universe.
 
-The project includes:
+This repository serves as the central source of truth for all branding, documentation, graphics, and production assets related to the project.
 
-- Original department branding
-- City identity and government seals
+---
+
+## Mission
+
+Create a believable, original, and production-quality public safety identity that feels authentic within the Mimesis Roleplay world while remaining legally distinct from real-world agencies.
+
+---
+
+## Project Scope
+
+This repository includes:
+
+- City branding
+- Department identities
 - Vehicle liveries
 - Fleet graphics
 - Badges and insignia
-- Shoulder patches
-- Uniform graphics
-- Typography standards
+- Uniform assets
+- Typography
 - Color standards
-- Brand documentation
-- Graphics library
-- Production-ready export assets
-
-Every asset is designed to work together as part of a unified visual identity.
+- Documentation
+- Production-ready exports
 
 ---
 
-## Departments
+## Roadmap
 
-The following agencies are included in the project:
+For planned releases and milestones, see [docs/roadmap.md](docs/roadmap.md).
+
+---
+
+## Agencies
+
+Current agencies include:
 
 - Los Santos Police Department (LSPD)
 - Blaine County Sheriff's Office (BCSO)
@@ -38,114 +55,121 @@ The following agencies are included in the project:
 - Paleto Bay Police Department (PBPD)
 - San Andreas State Police (SASP)
 
-Future municipal and public service departments may also be added.
-
----
-
-## Project Goals
-
-- Create an original and believable public safety identity.
-- Maintain consistent branding across all departments.
-- Produce high-quality, game-ready graphics.
-- Build reusable design assets.
-- Document every major design decision.
-- Follow professional version control practices.
+Additional agencies may be added as the project expands.
 
 ---
 
 ## Repository Structure
 
-```
+```text
+assets/
+    Editable project assets
+
 docs/
-    Project documentation
+    Documentation and project standards
 
-source/
-    Editable source files
-
-exports/
-    Production exports (PNG, DDS, SVG, PDF)
+production/
+    Approved production assets
 
 references/
     Research and inspiration
 
 tools/
-    Utility files and helper scripts
+    Project utilities
 ```
+
+---
+
+## Development Philosophy
+
+The project follows five guiding principles:
+
+- Quality over speed
+- Documentation before implementation
+- Originality over imitation
+- Consistency across all assets
+- Production-ready releases
+
+---
+
+---
+
+## Documentation
+
+Project documentation can be found in the `docs/` directory, including:
+
+- Project Charter
+- Roadmap
+- Brand Standards
+- Fleet Standards
+- Design Decision Log
+- Meeting Notes
 
 ---
 
 ## Workflow
 
-Every production asset follows the same workflow:
-
-1. Research
-2. Concept
-3. Design Review
-4. Production Artwork
-5. Quality Assurance
-6. Git Commit
-7. Release
-
-Nothing is considered complete until it meets production standards.
-
----
-
-## Branch Strategy
-
-| Branch | Purpose |
-|---------|----------|
-| `main` | Stable production-ready assets |
-| `develop` | Active development |
-| `feature/*` | Individual features and assets |
-
-Example:
+Every major asset follows the same lifecycle:
 
 ```
-feature/city-crest
-feature/lspd-badge
-feature/lspd-livery
+Research
+    ↓
+Planning
+    ↓
+Design
+    ↓
+Review
+    ↓
+Approval
+    ↓
+Production
 ```
 
 ---
 
-## Versioning
+## Repository Status
 
-The project follows Semantic Versioning.
+Current Release:
 
-Example:
+**v0.1.0 – Repository Foundation**
 
-```
-v0.1.0 Repository Setup
-v0.2.0 City Identity
-v0.3.0 LSPD Identity
-v0.4.0 Graphics Library
-v0.5.0 Fleet Prototype
-v1.0.0 Initial Public Safety Release
-```
+Current Focus:
 
----
-
-## Current Status
-
-**Sprint:** 0 — Repository Setup
-
-Current objectives:
-
-- Repository initialization
+- Repository setup
 - Documentation
-- Folder structure
+- Governance
 - Project standards
+
+---
+
+## Contributing
+
+Please read:
+
+- CONTRIBUTING.md
+- CODE_OF_CONDUCT.md
+- SECURITY.md
+
+before contributing.
 
 ---
 
 ## License
 
-License information will be added before the first public release.
+This repository is governed by the custom **Mimesis Public Safety Project License**.
+
+See the `LICENSE` file for details.
 
 ---
 
-## Author
+## Maintainer
 
-Developed for **Mimesis Roleplay**.
+**Project Owner**
 
-Project maintained by **Molina1192**.
+Molina1192
+
+---
+
+## Acknowledgements
+
+Thank you to everyone who contributes their time, creativity, and expertise to help build the Mimesis Public Safety project.

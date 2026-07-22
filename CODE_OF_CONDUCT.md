@@ -1,10 +1,16 @@
-# Contributor Covenant Code of Conduct
+# Code of Conduct
+
+This Code of Conduct establishes the standards of behavior expected within the **Mimesis Public Safety Project** community.
+
+The project is committed to maintaining a professional, respectful, collaborative, and inclusive environment for all contributors.
+
+---
 
 ## Our Pledge
 
-We as contributors and maintainers pledge to make participation in the Mimesis Public Safety project a respectful, collaborative, and harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity or expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
+We, as contributors and maintainers, pledge to make participation in the Mimesis Public Safety Project a respectful, collaborative, and harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity or expression, level of experience, nationality, personal appearance, race, religion, or sexual orientation.
 
-We are committed to fostering an open, welcoming, and professional community.
+We are committed to fostering an open, welcoming, and professional community where constructive collaboration is encouraged.
 
 ---
 
@@ -12,35 +18,36 @@ We are committed to fostering an open, welcoming, and professional community.
 
 Examples of behavior that contributes to a positive environment include:
 
-- Treating others with respect and professionalism.
+- Treating others with professionalism and respect.
 - Being open to constructive feedback.
 - Accepting responsibility for mistakes and learning from them.
 - Respecting differing opinions and approaches.
 - Prioritizing the success of the project over individual preferences.
 - Helping maintain a welcoming and collaborative environment.
+- Giving appropriate credit for the work of others.
 
 Examples of unacceptable behavior include:
 
-- Harassment, discrimination, or intimidation.
-- Personal attacks or insulting language.
-- Publishing private information without permission.
-- Deliberately disrupting discussions or development.
-- Plagiarism or knowingly submitting work that violates another party's intellectual property rights.
+- Harassment, discrimination, intimidation, or bullying.
+- Personal attacks or abusive language.
+- Publishing another person's private information without permission.
+- Deliberately disrupting discussions or project development.
+- Plagiarism or knowingly submitting work that infringes on another party's intellectual property rights.
 - Any conduct that would be considered inappropriate in a professional workplace.
 
 ---
 
 ## Enforcement Responsibilities
 
-Project maintainers are responsible for clarifying and enforcing this Code of Conduct.
+Project maintainers are responsible for interpreting and enforcing this Code of Conduct.
 
-Maintainers may remove, edit, or reject contributions, comments, commits, issues, or pull requests that violate these standards.
+Maintainers may remove, edit, reject, or restrict contributions, comments, commits, issues, pull requests, or other project interactions that violate these standards.
 
 ---
 
 ## Scope
 
-This Code of Conduct applies to all interactions within the project, including:
+This Code of Conduct applies to all official project spaces, including:
 
 - GitHub Issues
 - Pull Requests
@@ -49,37 +56,54 @@ This Code of Conduct applies to all interactions within the project, including:
 - Design Reviews
 - Project Communications
 
-It also applies when an individual is officially representing the project in public spaces.
+It also applies when an individual is officially representing the Mimesis Public Safety Project in public spaces.
 
 ---
 
 ## Reporting
 
-If you experience or witness behavior that violates this Code of Conduct, please contact the project maintainers through the project's GitHub repository.
+If you experience or witness behavior that violates this Code of Conduct, please report it to the Project Owner through the official GitHub repository.
 
-All reports will be reviewed promptly and handled with appropriate confidentiality.
+Reports will be handled promptly, fairly, and with appropriate confidentiality whenever possible.
 
 ---
 
 ## Enforcement Guidelines
 
-Maintainers may take appropriate action depending on the severity of the violation, including:
+Depending on the severity and frequency of the violation, maintainers may take one or more of the following actions:
 
-1. Warning
+1. Private warning
 2. Temporary restriction from participation
 3. Permanent removal from the project
 
-The response will be proportional to the nature and severity of the conduct.
+Enforcement decisions will be proportionate to the nature and severity of the conduct.
+
+---
+
+## Related Documents
+
+Contributors should also review:
+
+- [README.md](README.md)
+- [LICENSE](LICENSE)
+- [PROJECT_PRINCIPLES.md](PROJECT_PRINCIPLES.md)
+- [CONTRIBUTING.md](CONTRIBUTING.md)
+- [SECURITY.md](SECURITY.md)
 
 ---
 
 ## Attribution
 
-This Code of Conduct is adapted from the Contributor Covenant, version 2.1.
+This Code of Conduct is adapted from the **Contributor Covenant**, Version 2.1.
 
-For more information, see:
+Contributor Covenant is available at:
+
 https://www.contributor-covenant.org/version/2/1/code_of_conduct/
 
 ---
 
-Thank you for helping make Mimesis Public Safety a professional, respectful, and collaborative project.
+Thank you for helping make the Mimesis Public Safety Project a professional, respectful, and collaborative community.
+
+---
+
+© 2026 Mimesis Public Safety Project. All Rights Reserved.
